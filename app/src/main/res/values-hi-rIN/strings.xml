@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ga18">Download</string>
+    <string name="gd1"> गूगल ड्राइव के साथ सिंक ...</string>
+    <string name="app_name2">UNotes</string>
+    <string name= "gd2" > में पाया गया </string>
+    <string name= "gd3" > बनाया </string>
+    <string name= "gd4" > त्रुटि </string>
+    <string name= "gd5" > किया! </string>
+    <string name= "gd6" > हटा दिया </string>
+      <string name = "aa1"> अनुस्मारक! </string>
+      <string name = "af1"> "अनुस्मारक रद्द कर दिया गया!" </string>
+      <string name = "af2"> अनुस्मारक की तिथि और समय सेट करें! </string>
+      <string name = "bs2"> अनुस्मारक पुनर्स्थापित </string>
+      <string name = "c1">पर शून्य हिस्से से निषिद्ध! </string>
+
+      <string name = "pr8"> हरा </string>
+    <string-array name="theme">
+          <item> हरा </item>
+          <item> नीला </item>
+           <item> गुलाबी </item>
+          <item> पीला </item>
+           <item> दिन / रात </item>
+          </string-array>
+
+      <string name = "create_table"> नया फ़ोल्डर ... </string>
+
+      <string name = "ct1"> तालिका विकल्प </string>
+      <string name = "ct2"> कॉलम </string>
+      <string name = "ct3"> तालिका का नाम दर्ज करें </string>
+      <string name = "ct4"> आपको तालिका में कम से कम दो कॉलम </string> बनाना होगा
+      <string name = "ct5"> तालिका बनाई गई </string>
+      <string name = "ct6"> टेम्पलेट (तालिका) </string>
+      <string name = "ct7"> हटाएं </string>
+      <string name = "ct8"> टेम्पलेट के रूप में बनाएं? </string>
+      <string name = "ct9"> सूची </string>
+      <string name = "skr"> छुपाएं </string>
+
+      <string name = "pcol"> + स्तंभ </string>
+      <string name = "mcol"> - स्तंभ </string>
+      <string name = "prow"> + लाइन </string>
+      <string name = "mrow"> - लाइन </string>
+
+
+      <string name = "createtemplate"> टेम्पलेट शब्द (वाक्यांश) </string>
+
+      <string name = "ed1"> पुनः प्रयास करें </string>
+      <string name = "ed2"> टेम्पलेट (शब्द / वाक्यांश) </string>
+      <string name = "ed3"> बनाएँ </string>
+      <string name = "ed4"> अनुस्मारक सेट है </string>
+      <string name = "ed5"> नोट नहीं जोड़ा गया </string>
+      <string name = "ed6"> नोट जोड़ा गया </string>
+      <string name = "ed7"> नोट सहेजा जाता है </string>
+      <string name = "ed8"> क्या आप यह डिफ़ॉल्ट पृष्ठभूमि रंग चाहते हैं? </string>
+      <string name = "ed9"> क्या आप इसे डिफ़ॉल्ट टेक्स्ट रंग बनाना चाहते हैं? </string>
+
+
+      <string name = "yes"> हां </string>
+      <string name="no"> कोई नहीं </string>
+      <string name = "ok"> ठीक है </string>
+      <string name = "cansel"> रद्द करें </string>
+      <string name = "otmena"> रद्द करें </string>
+      <string name = "app_cancel"> क्या आप एप्लिकेशन से बाहर निकलना चाहते हैं?  </string>
+      <string name = "quest1"> क्या आप इस फ़ोल्डर को मिटाना चाहते हैं? "</string>
+      <string name = "create_worklist"> प्रविष्टि बनाई गई थी: </string>
+
+
+      <string name = "et1"> नया आइटम ... </string>
+      <string name = "et3"> देखें: </string>
+      <string name = "et2"> भेजें </string>
+      <string name = "et4"> नाम ... </string>
+
+      <string name = "setpassword"> पासवर्ड ... </string>
+
+      <string name = "ga1"> के सही संचालन के लिए आप की जरूरत आवेदन प्राप्त करने के लिए काम करने की अनुमति के साथ कुछ कार्यों के फोन (गोली), इन कर रहे हैं की आवश्यकताओं ओएस "एंड्रायड" , तो आप अनुमति नहीं देते, तो दुर्भाग्य से, आवेदन खत्म हो जाएगा</string>
+      <string name = "ga2"></string>
+      <string name = "ga3"> </string>
+      <string name = "ga4"></string>
+      <string name = "ga5"> कोई अनुमति प्राप्त नहीं हुई है। </string>
+      <string name = "ga6"> एप्लिकेशन पूरा हो गया है </string>
+      <string name = "ga7"> ट्रैश </string>
+      <string name = "ga8"> प्रविष्टि  फ़ोल्डर में बनाई गई थी QuickStart</string>
+      <string name = "ga9"> संदेश ... </string>
+      <string name = "ga10"> पुनरारंभ करें ... </string>
+      <string name = "ga11"> जारी रखें ... </string>
+      <string name = "ga12"> के रूप में सहेजें ... </string>
+      <string name = "ga13"> पथ: </string>
+      <string name = "ga14"> नाम बदलने के लिए शीट का चयन करें </string>
+      <string name = "ga15"> हटाए जाने के लिए चादरें चुनें </string>
+      <string name = "ga16"> फ़ाइलें प्राप्त हुईं।
+ डेटाबेस को अद्यतन करने के लिए, आपको एप्लिकेशन को पुनरारंभ करना होगा ... </string>
+
+
+      <string name = "ls1"> डिवाइस (मेमोरी कार्ड) </string>
+      <string name = "ls2"> कट बनाएं।  कॉपी </string>
+      <string name = "ls3"> डेटा पुनर्प्राप्त करें </string>
+      <string name = "ls4"> बैकअप फ़ाइल नहीं मिली </string>
+      <string name = "ls5"> बैकअप बनाया गया था </string>
+      <string name = "ls6"> बैकअप फ़ाइल बनाने में त्रुटि </string>
+       <string name="ls7"> Cloud (Google Drive) </string>
+
+      <string name = "pc1"> केवल डायरेक्ट </string>
+      <string name = "pc2"> मनमानी घटता </string>
+      <string name = "pc3"> पृष्ठभूमि रंग का चयन करें </string>
+      <string name = "pc4"> पैलेट </string>
+      <string name = "pc5"> गैलरी </string>
+
+
+      <string name = "rs1"> नया नाम ...</string>
+
+      <string name = "error_voice_recognition"> ध्वनि पहचान त्रुटि </string>
+
+
+      <string name = "w1"> संबंधित अनुमतियां प्राप्त नहीं की गई हैं। </string>
+      <string name = "w2"> प्रविष्टि  फ़ोल्डर में बनाई गई थी QuickStart </string>
+     
+      <string name = "wa1"> संपादित करें </string>
+      <string name = "wa2"> टिप्पणी </string>
+      <string name = "wa3"> नोट टेक्स्ट </string>
+      <string name = "wa4"> कोई टेक्स्ट नहीं </string>
+
+      <string name = "wl1"> टोकरी में कोई नोट नहीं है </string>
+      <string name = "wl2"> चयनित नोट हटा दिए गए </string>
+      <string name = "wl3"> रिकॉर्ड नहीं चुना गया </string>
+      <string name = "wl4"> क्या आप वाकई चुने गए नोट्स को स्थायी रूप से मिटाना चाहते हैं? </string>
+      <string name = "wl5"> हटाने के लिए नोट्स का चयन करें </string>
+      <string name = "wl6"> वर्तमान फ़ोल्डर में से एक है ।
+बनाने के लिए कम से कम एक से अधिक फ़ोल्डर में स्थानांतरित करने के लिए रिकॉर्ड है ।  </string>
+      <string name = "wl7"> फ़ोल्डर बनाएं </string>
+      <string name = "wl8"> पर जाएं ... </string>
+      <string name = "wl9"> चयनित नोट ट्रैश में ले जाया जाता है </string>
+      <string name = "wl10"> निवडा नोट्स हलवा</string>
+      <string name = "wl11"> प्रविष्टि जोड़ा गया </string>
+     
+      <string name = "ag1"> प्राथमिकताएं </string>
+      <string name = "ag2"> ऑनलाइन सहायता </string>
+      <string name = "ag3"> एप्लिकेशन का मूल्यांकन करें </string>
+      <string name = "alf1"> अनुस्मारक </string>
+      <string name = "alf2"> दिनांक </string>
+      <string name = "alf3"> समय </string>
+
+      <string name = "vn"> एक नाम दर्ज करें </string>
+      <string name = "edl1"> टेक्स्ट </string>
+      <string name = "ll1"> संपादित करें </string>
+      <string name = "ll2"> तालिका खोलें </string>
+      <string name = "avt"> पासवर्ड </string>
+      <string name = "log1"> लॉगिन </string>
+      <string name = "tl1"> नाम ... </string>
+
+      <string name = "wll1"> सूची </string>
+      <string name = "wll2"> तालिका </string>
+      <string name = "wll3"> चित्र </string>
+      <string name = "wll4">डिक्टाफोन</string>
+      <string name = "wll5"> टेक्स्ट </string>
+      <string name = "wll6"> फ़ोटो </string>
+
+      <string name = "wll12"> सूची </string>
+      <string name = "wll13"> तालिका। </string>
+      <string name = "wll14"> चित्र </string>
+      <string name = "wll15"> डिक्टाफोन </string>
+      <string name = "wll16"> टेक्स्ट </string>
+      <string name = "wll17"> फ़ोटो </string>
+      <string name = "wll18"> कोई रिकॉर्ड नहीं है।  \ "+ \" पर क्लिक करें और आपको जिस प्रकार की जानकारी चाहिए उसे चुनें। </string>
+      <string name = "wll7"> कोई रिकॉर्ड नहीं है।  \ "+ \" पर क्लिक करें और आपको जिस प्रकार की जानकारी चाहिए उसे चुनें। </string>
+
+      <string name = "ustroistvo"> बैकअप </string>
+
+      <string name = "mm2"> पृष्ठभूमि रंग </string>
+      <string name = "mm3"> टेक्स्ट रंग </string>
+      <string name = "mm4"> सभी का चयन करें </string>
+      <string name = "mm5"> ले जाएं </string>
+      <string name = "mm6"> हटाएं </string>
+
+      <string name = "men1"> कैलक्यूलेटर </string>
+      <string name = "men2"> दिनांक डालें </string>
+      <string name = "men3"> समय सम्मिलित करें </string>
+      <string name = "men4"> भेजें </string>
+      <string name = "men5"> पिछला  देखना </string>
+      <string name = "men6"> केवल इंडेंट के साथ। (पोस्ट।1) </string>
+      <string name = "mmm1"> वॉयस डायलिंग </string>
+      <string name = "mmm2"> एक टेम्पलेट डालें (शब्द / वाक्यांश) </string>
+      <string name = "mmm3"> दिनांक डालें </string>
+      <string name = "mmm4"> समय सम्मिलित करें </string>
+      <string name = "mmm5"> पृष्ठभूमि रंग </string>
+      <string name = "mmm6"> टेक्स्ट रंग </string>
+      <string name = "nn1"> अगला </string>
+      <string name = "nn2"> पीछे </string>
+      <string name = "nn3"> केवल डायरेक्ट </string>
+      <string name = "nn4"> पैलेट </string>
+      <string name = "nn5"> अन्य पृष्ठभूमि </string>
+      <string name = "nn6"> इरेज़र </string>
+      <string name = "nn7"> पृष्ठभूमि साफ़ करें </string>
+      <string name = "nn8"> पूर्ण स्क्रीन </string>
+      <string name = "nn9"> भेजें </string>
+      <string name = "pp1"> नाम बदलें </string>
+      <string name = "pr1"> थीम का चयन करना </string>
+      <string name = "pr2"> फ़ोल्डर सूची </string>
+      <string name = "pr3"> रिकॉर्ड में पाठ </string>
+      <string name = "pr4"> फ़ोल्डर सूची </string>
+      <string name = "pr5"> रिकॉर्ड में पाठ </string>
+      <string name = "pr6"> तालिका में टेक्स्ट </string>
+      <string name = "pr7"> टेक्स्ट में लिंक शामिल करें </string>
+
+      <string name = "pr9"> एप्लिकेशन थीम का चयन करें </string>
+      <string name = "pr10"> फ़ॉन्ट </string>
+      <string name = "pr11"> फ़ोल्डर सूची का फ़ॉन्ट चुनें </string>
+      <string name = "pr12"> प्रविष्टि में टेक्स्ट फ़ॉन्ट का चयन करें </string>
+      <string name = "pr13"> फ़ॉन्ट आकार </string>
+      <string name = "pr14"> फ़ॉन्ट आकार का चयन करें </string>
+      <string name = "pr15"> फ़ॉन्ट आकार का चयन करें </string>
+      <string name = "pr16"> नोट्स में टेक्स्ट </string>
+      <string name = "title_activity_preference"> सेटिंग्स </string>
+
+      <string-array name = "fontsize">
+      <item> 14 </item>
+      <item> 16 </item>
+      <item> 18 </item>
+      <item> 20 </item>
+      <item> 22 </item>
+      <item> 24 </item>
+      <item> 26 </item>
+      <item> 28 </item>
+      </string-array>
+
+    <string-array name="fontLS">
+        <item>Times New Roman</item>
+        <item>Nautiluspompilius</item>
+        <item>Comic Sans MS</item>
+        <item>Arkhip</item>
+        <item>Kremlin</item>
+    </string-array>
+     
+
+      <string name = "navigation_drawer_open"> खुला </string>
+      <string name = "navigation_drawer_close"> बंद करें </string>
+
+      <string name = "d1"> रिकॉर्डर </string> पर है
+      <string name = "nnn"> चित्र </string>
+      <string name = "record_added"> प्रविष्टि जोड़ा गया </string>
+      <string name = "th1"> थीम </string>
+    <string name="ls8"> No Internet connection</string>
+
+    <string name="action_scan">UPLOAD file</string>
+    <string name="action_list">DOWNLOAD all files</string>
+    <string name="action_delete">DELETE all files</string>
+    <string name="action_account">Select Google Account…</string>
+    <string name="obl"> Backup (GoogleDrive) </string>
+
+    <string name="err_auth_sha">CHECK PackageName / SHA1\nin Developers Console!</string>
+    <string name="err_auth_dono">UNSPECIFIED GOOGLE DRIVE\nACCESS FAILURE!</string>
+    <string name="err_auth_accpick">NO ACCOUNT SELECTED!</string>
+    <string name="err_auth_nogo">ACCESS NOT AUTHORIZED!</string>
+    <string name="mmm7"> में प्रदर्शित करने के लिए विजेट </string>
+    <string name= "pr20" >दिखाएँ बटन लेबल</string>
+    <string name="pos">स्थिति</string>
+    <string name="sy">यह हो सकता है कुछ मिनट ले लो...</string>
+    <string name="sycancel"></string>
+    <string name="gl1">प्रेस फिर से आवेदन बाहर निकलने के लिए</string>
+    <string name= "err">क्षमा करें, लोड करने में त्रुटि हुई फ़ाइलें. दोहराने के तुल्यकालन है । </string>
+    <string name= "povt"> दोहराएँ</string>
+    <string name= "commno">कोई टिप्पणी नहीं</string>
+    <string name= "w3">फोटो बचाया करने के लिए "QuickStart फ़ोल्डर"</string>
+    <string name= "ga17" >कॉल</string>
+    <string name= "w4" >रिकॉर्ड को बचाया करने के लिए "कॉल फ़ोल्डर"</string>
+    <string name= "w5" >के साथ फोन पर बातचीत </string>
+    <string name="w6">unknown</string>
+
+    <string name="rer1">Documents</string>
+    <string name="rer2">Images</string>
+    <string name="rer3">All</string>
+</resources>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ga18">Download</string>
+
+    <string name = "app_name2"> UNotes</string>
+      <string name = "gd1"> Google Drive ile senkronize et ... </string>
+      <string name = "gd2"> bulundu </string>
+      <string name = "gd3"> oluşturuldu </string>
+      <string name = "gd4"> başarısız </string>
+      <string name = "gd5"> Bitti! </string>
+      <string name = "gd6"> silindi </string>
+      <string name = "aa1"> Hatırlatıcı!  </string>
+      <string name = "af1"> "Hatırlatıcı iptal edildi!"  </string>
+      <string name = "af2"> Hatırlatıcının tarihini ve saatini ayarlayın!  </string>
+      <string name = "bs2"> Hatırlatıcılar geri yüklendi </string>
+      <string name = "c1"> Sıfıra bölerek hata </string>
+
+
+      <string name = "pr8"> Yeşil </string>
+
+    <string-array name="theme">
+      <item> Yeşil </item>
+      <item> Mavi </item>
+      <item> Pembe </item>
+      <item> Sarı </item>
+      <item> Gündüz / Gece </item>
+      </string-array>
+
+      <string name = "create_table"> Yeni klasör ... </string>
+
+      <string name = "ct1"> Tablo Seçenekleri </string>
+      <string name = "ct2"> Sütun </string>
+      <string name = "ct3"> Tablonun adını girin </string>
+      <string name = "ct4"> En az iki sütun oluşturmalısınız </string>
+      <string name = "ct5"> Tablo oluşturuldu </string>
+      <string name = "ct6"> Şablon (tablo) </string>
+      <string name = "ct7"> Sil </string>
+      <string name = "ct8"> Şablon olarak oluşturulsun mu?  </string>
+      <string name = "ct9"> Liste </string>
+
+
+
+      <string name = "skr"> Hiden </string>
+
+
+      <string name = "createtemplate"> Şablon Sözcüğü (İfade) </string>
+
+      <string name = "ed1"> Tekrar deneyin </string>
+      <string name = "ed2"> Şablon (word / ifade) </string>
+      <string name = "ed3"> Oluştur </string>
+      <string name = "ed4"> Hatırlatıcı grubu </string>
+      <string name = "ed5"> Not eklenmedi </string>
+      <string name = "ed6"> Not eklendi </string>
+      <string name = "ed7"> Not kaydedilir </string>
+      <string name = "ed8"> Bu varsayılan arka plan rengini istiyor musunuz?  </string>
+      <string name = "ed9"> Bu varsayılan metin rengini yapmak istiyor musunuz?  </string>
+
+
+      <string name = "yes"> Evet </string>
+      <string name = "no"> Yok </string>
+      <string name = "ok"> Tamam </string>
+      <string name = "cansel"> İptal et </string>
+      <string name = "otmena"> İptal et </string>
+      <string name = "app_cancel"> Uygulamadan çıkmak istiyor musunuz?  </string>
+      <string name = "quest1"> Bu klasörü silmek istiyor musunuz?  "</string>
+      <string name = "create_worklist"> Giriş oluşturuldu: </string>
+
+
+      <string name = "et1"> yeni öğe ... </string>
+      <string name = "et3"> Görüntüle: </string>
+      <string name = "et2"> Gönder </string>
+      <string name = "et4"> Ad ... </string>
+
+      <string name = "setpassword"> Şifre ... </string>
+
+      <string name = "ga1"> Uygulamanın doğru çalışması için çalışma izinlerini almanız gerekir </string>
+      <string name = "ga2"> telefonun bazı işlevleriyle (tablet), bunlar OS "Android" in gereksinimleridir, </string>
+      <string name = "ga3"> değilseniz </string>
+      <string name = "ga4"> izin ver, maalesef uygulama bitecek </string>
+      <string name="ga5">  Hiçbir koşul alınmadı.  </string>
+      <string name = "ga6"> Uygulama tamamlandı </string>
+      <string name = "ga7"> Çöp Kutusu </string>
+      <string name = "ga8"> Giriş, QuickStart klasöründe oluşturuldu </string>
+      <string name = "ga9"> İleti ... </string>
+      <string name = "ga10"> Yeniden başlat ... </string>
+      <string name = "ga11"> Devam ... </string>
+      <string name = "ga12"> Farklı kaydet ... </string>
+      <string name = "ga13"> Yol: </string>
+      <string name = "ga14"> Yeniden adlandırılacak sayfayı seçin </string>
+      <string name = "ga15"> Silmek istediğiniz sayfaları seçin </string>
+      <string name = "ga16"> Alınan dosyalar
+  Veritabanını güncellemek için uygulamayı yeniden başlatmanız gerekir ... </string>
+
+
+      <string name = "ls1"> Cihaz (hafıza kartı) </string>
+      <string name = "ls2"> Kesim oluşturkopyala </string>
+      <string name = "ls3"> Verileri Kurtar </string>
+<string name = "ls4"> Yedekleme dosyası bulunamadı </string>
+      <string name = "ls5"> Yedekleme oluşturuldu </string>
+      <string name = "ls6"> Yedekleme dosyası oluşturulurken hata oluştu </string>
+
+
+      <string name = "pc1"> Sadece doğrudan </string>
+      <string name = "pc2"> Rasgele eğriler </string>
+      <string name = "pc3"> Arka plan rengini seç </string>
+      <string name = "pc4"> Palet </string>
+      <string name = "pc5"> Galeri </string>
+
+
+      <string name = "rs1"> Yeni ad ... </string>
+
+      <string name = "error_voice_recognition"> Ses tanıma hatası </string>
+
+
+      <string name = "w1"> İlgili izinler alınmadı. </string>
+      <string name = "w2"> Giriş, "QuickStart" klasörüne kaydedilir. </string>
+     
+      <string name = "wa1"> Düzenle </string>
+      <string name = "wa2"> Yorum </string>
+      <string name = "wa3"> Not metni </string>
+      <string name = "wa4"> metin yok </string>
+
+      <string name = "wl1"> Sepetinde not yok </string>
+      <string name = "wl2"> Seçilen notlar silindi </string>
+      <string name = "wl3"> Kayıt seçilmedi </string>
+      <string name = "wl4"> Seçili notları silmek istediğinizden emin misiniz?  </string>
+      <string name = "wl5"> Silmek için not seç </string>
+      <string name = "wl6"> Geçerli klasör bir.
+ Kayıtları taşımak için en az bir tane daha klasör oluşturun  </string>
+      <string name = "wl7"> Klasör oluştur </string>
+      <string name = "wl8"> Şuraya taşı ... </string>
+      <string name = "wl9"> Seçilen notlar çöp kutusuna taşındı </string>
+      <string name = "wl10"> Taşınacak notları seç </string>
+      <string name = "wl11"> Giriş eklendi </string>
+     
+      <string name = "ag1"> Tercihler </string>
+      <string name = "ag2"> Çevrimiçi Yardım </string>
+      <string name = "ag3"> Uygulamayı değerlendirin </string>
+      <string name = "alf1"> Hatırlatıcı </string>
+      <string name = "alf2"> tarih </string>
+      <string name = "alf3"> Saat </string>
+
+      <string name = "vn"> Bir isim girin </string>
+      <string name = "edl1"> Metin </string>
+      <string name = "ll1"> Düzenle </string>
+      <string name = "ll2"> tabloyu aç </string>
+      <string name = "avt"> Şifre </string>
+      <string name = "log1"> Giriş </string>
+      <string name = "tl1"> Ad ... </string>
+
+      <string name = "wll1"> Liste </string>
+      <string name = "wll2"> Tablo </string>
+      <string name = "wll3"> Şekil </string>
+      <string name = "wll4"> Kulaklıklar </string>
+      <string name = "wll5"> Metin </string>
+      <string name = "wll6"> Fotoğraf </string>
+
+      <string name = "wll12"> Liste </string>
+      <string name = "wll13"> Tablo  </string>
+      <string name = "wll14"> Şekil </string>
+      <string name = "wll15"> Dictate </string>
+      <string name = "wll16"> Metin </string>
+      <string name = "wll17"> Fotoğraf </string>
+      <string name="wll18"> bir kayıt değildir.  \ "+ \" İşaretini tıklayın ve ihtiyacınız olan bilgi türünü seçin.  </string>
+      <string name = "wll7"> Kayıt yok.  \ "+ \" İşaretini tıklayın ve ihtiyacınız olan bilgi türünü seçin.</string>
+
+      <string name = "ustroistvo"> Yedekleme </string>
+
+      <string name = "mm2"> Arkaplan rengi </string>
+      <string name = "mm3"> Metin rengi </string>
+      <string name = "mm4"> Tümünü seç </string>
+      <string name = "mm5"> Taşı </string>
+      <string name = "mm6"> Sil </string>
+
+      <string name = "men1"> Hesap Makinesi </string>
+      <string name = "men2"> Tarih ekle </string>
+      <string name = "men3"> Saati ekle </string>
+      <string name = "men4"> Gönder </string>
+      <string name = "men5"> Önceki görüntüleme </string>
+      <string name = "men6"> Yalnızca bir girintiyle (sütun 1) </string>
+      <string name = "mmm1"> Sesle arama </string>
+      <string name = "mmm2"> Bir şablon ekle (kelime / ifade) </string>
+      <string name = "mmm3"> tarih ekle </string>
+      <string name = "mmm4"> Saati ekle </string>
+      <string name = "mmm5"> Arkaplan rengi </string>
+      <string name = "mmm6"> Metin rengi </string>
+      <string name = "nn1"> Sonraki </string>
+      <string name = "nn2"> Geri </string>
+      <string name = "nn3"> Yalnızca doğrudan </string>
+      <string name = "nn4"> Palet </string>
+      <string name = "nn5"> Diğer arka plan </string>
+      <string name = "nn6"> Silgi </string>
+      <string name = "nn7"> Arka planı temizle </string>
+      <string name = "nn8"> Tam ekran </string>
+      <string name = "nn9"> Gönder </string>
+      <string name = "pp1"> Yeniden adlandır </string>
+      <string name = "pr1"> Bir tema seçilmesi </string>
+      <string name = "pr2"> Klasör Listesi </string>
+      <string name = "pr3"> Kayıttaki metin </string>
+      <string name = "pr4"> Klasör Listesi </string>
+      <string name = "pr5"> Kayıttaki metin </string>
+      <string name = "pr6"> Tablodaki metin </string>
+      <string name = "pr7"> Metne bağlantı ekleyin </string>
+     
+      <string name = "pr9"> Uygulama temasını seçin </string>
+      <string name = "pr10"> Yazı Tipi </string>
+      <string name = "pr11"> Klasör listesinin yazı tipini seçin </string>
+      <string name = "pr12"> Girişteki metni seçin </string>
+      <string name = "pr13"> Yazı tipi boyutu </string>
+      <string name = "pr14"> Yazı tipi boyutunu seç </string>
+      <string name = "pr15"> Yazı tipi boyutunu seç </string>
+      <string name = "pr16"> Notes \'ta Metin </string>
+      <string name = "title_activity_preference"> Ayarlar </string>
+
+      <string-array name = "fontsize">
+  <item> 14 </item>
+  <item> 16 </item>
+  <item> 18 </item>
+  <item> 20 </item>
+  <item> 22 </item>
+  <item> 24 </item>
+  <item> 26 </item>
+  <item> 28 </item>
+  </string-array>
+
+      <string-array name = "fontLS">
+  <item> Times New Roman </item>
+  <item> Nautiluspompilius </item>
+  <item> Comic Sans MS </item>
+  <item> Arkhip </item>
+  <item>Kremlin</item>
+</string-array>
+
+<string name = "navigation_drawer_open"> açık </string>
+      <string name = "navigation_drawer_close"> kapat </string>
+      <string name = "d1"> Kayıt cihazı açık </string>
+      <string name = "nnn"> Şekil </string>
+      <string name = "record_added"> Giriş eklendi </string>
+      <string name = "th1"> Тheme </string>
+
+
+      <string name = "pcol"> + sütun </string>
+      <string name = "mcol"> - sütun </string>
+      <string name = "prow"> + satır </string>
+      <string name = "mrow"> - satır </string>
+
+      <string name = "ls7"> Bulut (Google Drive) </string>
+      <string name = "ls8"> İnternet bağlantısı yok </string>
+
+      <string name = "action_scan"> UPLOAD dosyası </string>
+      <string name = "action_list"> tüm dosyaları indir </string>
+      <string name = "action_delete"> tüm dosyaları sil </string>
+      <string name = "action_account"> Google Hesabı Seç ... </string>
+      <string name = "obl"> Yedekleme (GoogleDrive) </string>
+      <string name = "err_auth_sha"></string>
+       <string name="err_auth_dono">UNSPECIFIED GOOGLE DRIVE\nACCESS FAILURE!</string>
+      <string name = "err_auth_accpick"> HESAP SEÇİLMEDİ! </string>
+      <string name = "err_auth_nogo"> ERİŞİM YETKİLİ DEĞİL! </string>
+      <string name = "mmm7"> Widget’ta görüntülemek için </string>
+
+      <string name = "pr20"> Düğme etiketlerini göster </string>
+      <string name = "pos"> Poz. </string>
+    <string name="sy">Birkaç dakika sürebilir...</string>
+    <string name="sycancel"></string>
+    <string name="gl1">Uygulamadan çıkmak için tekrar tıklayın</string>
+    <string name="err">ne yazık ki, dosya yüklendiğinde bir hata oluştu. Senkronizasyonu tekrarlayın.</string>
+    <string name="povt" >Yinele</string >
+    <string name="commno" > hiç yorum yapılmamış</string>
+
+    <string name="w3">fotoğraf "QuickStart" klasörüne kaydedilir </string>
+    <string name="ga17" >aramalar</string>
+    <string name="w4">kayıt aramalar klasörüne kaydedilir</string>
+    <string name = "w5">telefon görüşmesi birlikte</string>
+    <string name="w6">unknown</string>
+
+    <string name="rer1">Documents</string>
+    <string name="rer2">Images</string>
+    <string name="rer3">All</string>
+    </resources>

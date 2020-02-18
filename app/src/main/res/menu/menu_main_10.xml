@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/sh_del"
+          android:title=""
+          android:orderInCategory="100"
+          app:showAsAction="always"
+        android:icon="@drawable/vedro"/>
+
+    <item android:id="@+id/sh_all"
+          android:title=""
+          android:orderInCategory="100"
+          app:showAsAction="always"
+          android:icon="@drawable/all"/>
+
+    <item
+        android:id="@+id/sh_rename"
+        android:orderInCategory="100"
+        android:title="@string/pp1"
+        app:showAsAction="never" />
+
+
+
+
+
+
+</menu>

@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Colrowedit">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <Button
+        android:id="@+id/pcol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:text="@string/pcol" />
+
+    <Button
+        android:id="@+id/mcol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:text="@string/mcol" />
+
+    <Button
+        android:id="@+id/prow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:text="@string/prow" />
+
+    <Button
+        android:id="@+id/mrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:text="@string/mrow" />
+</LinearLayout>

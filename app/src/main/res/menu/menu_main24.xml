@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:app="http://schemas.android.com/apk/res-auto"
+          xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+        <item android:id="@+id/addrow"
+        android:title="Добавить строку"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/plusic" />
+
+    <item android:id="@+id/rename"
+        android:title="@string/pp1"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        />
+
+    <item android:id="@+id/saveshablon"
+        android:title="@string/ct8"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        />
+
+    <item android:id="@+id/gl"
+    android:title=""
+    android:orderInCategory="100"
+    app:showAsAction="always"
+    android:icon="@drawable/galochka" />
+
+    <item
+        android:id="@+id/shcalc"
+        android:icon="@drawable/calc"
+        android:orderInCategory="100"
+        android:title="@string/men1"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/tdate"
+        android:icon="@drawable/today"
+        android:orderInCategory="100"
+        android:title="@string/men2"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/ttime"
+        android:icon="@drawable/time"
+        android:orderInCategory="100"
+        android:title="@string/men3"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/share_table"
+        android:icon="@drawable/ic_share"
+        android:orderInCategory="100"
+        android:title="@string/men4"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/view_table"
+        android:icon="@drawable/view"
+        android:orderInCategory="100"
+        android:title="@string/men5"
+        app:showAsAction="ifRoom" />
+
+
+
+</menu>

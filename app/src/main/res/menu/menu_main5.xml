@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:app="http://schemas.android.com/apk/res-auto"
+          xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/openphoto"
+          android:title=""
+          android:orderInCategory="100"
+          app:showAsAction="always"
+          android:icon="@drawable/open"
+        />
+
+    <item android:id="@+id/ph_paint"
+        android:title=""
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/paint"
+        />
+    <item android:id="@+id/createphoto"
+          android:title=""
+          android:orderInCategory="100"
+          app:showAsAction="always"
+          android:icon="@drawable/camera"
+         />
+    <item android:id="@+id/share_photo"
+          android:title=""
+          android:orderInCategory="100"
+          app:showAsAction="always"
+          android:icon="@drawable/ic_share"/>
+
+    <item android:id="@+id/savephoto"
+          android:title=""
+          android:orderInCategory="100"
+          app:showAsAction="always"
+          android:icon="@drawable/galochka"/>
+
+
+</menu>

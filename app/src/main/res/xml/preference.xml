@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/th1">
+        <ListPreference
+            android:defaultValue="@string/pr8"
+            android:dialogTitle="@string/pr9"
+            android:entries="@array/theme"
+            android:entryValues="@array/theme"
+            android:key="theme"
+            android:title="@string/pr1" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/pr10">
+
+        <ListPreference
+            android:defaultValue="Comic Sans MS"
+            android:dialogTitle="@string/pr11"
+            android:entries="@array/fontLS"
+            android:entryValues="@array/fontLS"
+            android:key="fontLS"
+            android:title="@string/pr2" />
+
+        <ListPreference
+            android:defaultValue="Nautiluspompilius"
+
+            android:dialogTitle="@string/pr12"
+            android:entries="@array/fontLS"
+            android:entryValues="@array/fontLS"
+            android:key="fontWL"
+            android:title="@string/pr3" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/pr13">
+        <ListPreference
+            android:defaultValue="18"
+            android:dialogTitle="@string/pr14"
+            android:entries="@array/fontsize"
+            android:entryValues="@array/fontsize"
+            android:key="fontsizels"
+            android:title="@string/pr4" />
+
+        <ListPreference
+            android:defaultValue="18"
+            android:dialogTitle="@string/pr15"
+            android:entries="@array/fontsize"
+            android:entryValues="@array/fontsize"
+            android:key="fontsizewl"
+            android:title="@string/pr5" />
+
+        <ListPreference
+            android:defaultValue="18"
+            android:dialogTitle="@string/pr15"
+            android:entries="@array/fontsize"
+            android:entryValues="@array/fontsize"
+            android:key="fontsizetable"
+            android:title="@string/pr6" />
+</PreferenceCategory>
+    <PreferenceCategory
+        android:title="Другие настройки">
+
+        <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="link"
+        android:title="@string/pr7" />
+
+
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="viewsign"
+        android:title="@string/pr20" />
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical|center_horizontal">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/avt"
+            android:id="@+id/textView5"
+            android:textSize="@dimen/normtext"
+            android:layout_gravity="center_horizontal" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:ems="4"
+            android:id="@+id/epass"
+            android:layout_gravity="center_horizontal"
+            android:textSize="@dimen/normtext"/>
+
+        <Button
+            android:id="@+id/password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/log1"
+            android:textSize="@dimen/normtext" />
+
+    </LinearLayout>
+</LinearLayout>

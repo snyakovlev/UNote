@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="myApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="myApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Green.Base.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Green.Base.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Green.Base.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

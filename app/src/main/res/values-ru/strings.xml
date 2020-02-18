@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ga18">Download</string>
+    <string name="app_name2">UNotes</string>
+<string name="gd1">Синхронизация с Google Drive...</string>
+    <string name= "gd2"> найдено </string>
+    <string name= "gd3" > создано </string>
+    <string name= "gd4" > ошибка </string>
+    <string name= "gd5" > Готово! </string>
+    <string name= "gd6" > удалено </string>
+    <string name="aa1">Напоминание!</string>
+    <string name="af1">"Напоминание отменено!"</string>
+    <string name="af2">Установите дату и время напоминания!</string>
+    <string name="bs2">Напоминания восстановлены</string>
+    <string name="c1">Ошибка деление на ноль</string>
+
+    <string name="pr8">Зелёная</string>
+    <string-array name="theme">
+        <item>Зелёная</item>
+        <item>Синяя</item>
+        <item>Розовая</item>
+        <item>Жёлтая</item>
+        <item>День/Ночь</item>
+    </string-array>
+
+    <string name="create_table">Новая папка...</string>
+
+    <string name="ct1">Параметры таблицы</string>
+    <string name="ct2">Столбец</string>
+    <string name="ct3">Введите название таблицы</string>
+    <string name="ct4">Необходимо создать хотя бы два столбца в таблице</string>
+    <string name="ct5">Таблица создана</string>
+    <string name="ct6">Шаблон (таблица)</string>
+    <string name="ct7">Удалить</string>
+    <string name="ct8">Сохранить в шаблонах</string>
+    <string name="ct9">Список</string>
+    <string name="skr">скрыть</string>
+
+    <string name="pcol">+столбец</string>
+    <string name="mcol">-столбец</string>
+    <string name="prow">+строка</string>
+    <string name="mrow">-строка</string>
+
+    <string name="createtemplate">Шаблонное слово(фраза)</string>
+
+    <string name="ed1">Попробовать ещё раз</string>
+    <string name="ed2">Шаблон (слово/фраза)</string>
+    <string name="ed3">Создать</string>
+    <string name="ed4">Напоминание установлено</string>
+    <string name="ed5">Заметка не добавлена</string>
+    <string name="ed6">Заметка добавлена</string>
+    <string name="ed7">Заметка сохранена</string>
+    <string name="ed8">Сделать этот цвет фона по умолчанию?</string>
+    <string name="ed9">Сделать этот цвет текста по умолчанию?</string>
+
+
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="ok">OK</string>
+    <string name="cansel">Закрыть</string>
+    <string name="otmena">Закрыть</string>
+    <string name="app_cancel">Вы хотите выйти из приложения? </string>
+    <string name="quest1">Вы хотите удалить эту папку?"</string>
+    <string name="create_worklist">Запись создана:</string>
+
+
+    <string name="et1">новый пункт...</string>
+    <string name="et3">Просмотреть:</string>
+    <string name="et2">Отправить</string>
+    <string name="et4">Название...</string>
+
+    <string name="setpassword">Пароль...</string>
+
+    <string name="ga1">Для корректной работы приложения необходимо получить разрешения на работу </string>
+    <string name="ga2">с некоторыми функциями телефона (планшета), таковы требования ОС "Android",</string>
+    <string name="ga3"> если Вы не </string>
+    <string name="ga4">дадите разрешение, то к сожалению, приложение завершится</string>
+    <string name="ga5">Разрешения не получены.</string>
+    <string name="ga6">Приложение завершено</string>
+    <string name="ga7">Корзина</string>
+    <string name="ga8">Запись создана в папке QuickStart</string>
+    <string name="ga9">Сообщение...</string>
+    <string name="ga10">Перезапустить...</string>
+    <string name="ga11">Продолжить...</string>
+    <string name="ga12">Сохранить как...</string>
+    <string name="ga13">Путь: </string>
+    <string name="ga14">Выберите лист для переименования</string>
+    <string name="ga15">Выберите листы для удаления</string>
+    <string name="ga16">Файлы получены.
+Для обновления базы данных необходимо перезапустить приложение...</string>
+
+
+    <string name="ls1">Устройство (карта памяти)</string>
+    <string name="ls2">Создать рез. копию</string>
+    <string name="ls3">Восстановить данные</string>
+    <string name="ls4">Не найден файл резервной копии</string>
+    <string name="ls5">Резервная копия создана</string>
+    <string name="ls6">Ошибка создания файла резервной копии</string>
+
+
+    <string name="pc1">Только прямые</string>
+    <string name="pc2">Произвольные кривые</string>
+    <string name="pc3">Выберите цвет фона</string>
+    <string name="pc4">Палитра</string>
+    <string name="pc5">Галерея</string>
+
+
+    <string name="rs1">Новое название...</string>
+
+    <string name="error_voice_recognition">Ошибка распознавания голоса</string>
+
+
+    <string name="w1">Не получены соответствующие разрешения.</string>
+    <string name="w2">Запись сохранена в папку "QuickStart"</string>
+    <string name="w3">Фото сохранено в папку "QuickStart"</string>
+    
+    <string name="wa1">Изменить</string>
+    <string name="wa2">Комментарий</string>
+    <string name="wa3">Текст заметки</string>
+    <string name="wa4">нет текста</string>
+
+    <string name="wl1">В корзине заметок нет</string>
+    <string name="wl2">Выбранные заметки удалены</string>
+    <string name="wl3">Запись не выбрана</string>
+    <string name="wl4">Вы действительно хотите навсегда удалить выбранные заметки?</string>
+    <string name="wl5">Выберите заметки для удаления</string>
+    <string name="wl6">Текущая папка одна.
+ Создайте ещё хотя бы одну папку, чтобы перемещать записи.</string>
+    <string name="wl7">Создать папку</string>
+    <string name="wl8">Переместить в ...</string>
+    <string name="wl9">Выбранные заметки премещены в корзину</string>
+    <string name="wl10">Выберите заметки для перемещения</string>
+    <string name="wl11">Запись добавлена</string>
+    
+    <string name="ag1">Настройки</string>
+    <string name="ag2">Онлайн справка</string>
+    <string name="ag3">Оценить приложение</string>
+    <string name="alf1">Напоминание</string>
+    <string name="alf2">Дата</string>
+    <string name="alf3">Время</string>
+
+    <string name="vn">Введите название</string>
+    <string name="edl1">Текст</string>
+    <string name="ll1">Изменить</string>
+    <string name="ll2">Открыть таблицу</string>
+    <string name="avt">Пароль</string>
+    <string name="log1">Вход</string>
+    <string name="tl1">Название...</string>
+
+    <string name="wll1">Список</string>
+    <string name="wll2">Таблица</string>
+    <string name="wll3">Рисунок</string>
+    <string name="wll4">Диктофон</string>
+    <string name="wll5">Текст</string>
+    <string name="wll6">Фото</string>
+
+    <string name="wll12">Спис.</string>
+    <string name="wll13">Табл.</string>
+    <string name="wll14">Рис.</string>
+    <string name="wll15">Дикт.</string>
+    <string name="wll16">Текст</string>
+    <string name="wll17">Фото</string>
+    <string name="wll18">Записей нет. Кликнете \"+\" и выберите нужный тип информации.</string>
+    <string name="wll7">Записей нет. Кликнете \"+\" и выберите нужный тип информации.</string>
+
+    <string name="ustroistvo">Backup</string>
+
+    <string name="mm2">Цвет фона</string>
+    <string name="mm3">Цвет текста</string>
+    <string name="mm4">Выбрать все</string>
+    <string name="mm5">Переместить</string>
+    <string name="mm6">Удалить</string>
+
+    <string name="men1">Калькулятор</string>
+    <string name="men2">Вставить дату</string>
+    <string name="men3">Вставить время</string>
+    <string name="men4">Отправить</string>
+    <string name="men5">Предв. просмотр</string>
+    <string name="men6">Только с индент.(столб.1)</string>
+    <string name="mmm1">Голосовой набор</string>
+    <string name="mmm2">Вставить шаблон(слово/фраза)</string>
+    <string name="mmm3">Вставить дату</string>
+    <string name="mmm4">Вставить время</string>
+    <string name="mmm5">Цвет фона</string>
+    <string name="mmm6">Цвет текста</string>
+    <string name="nn1">Вперёд</string>
+    <string name="nn2">Назад</string>
+    <string name="nn3">Только прямые</string>
+    <string name="nn4">Палитра</string>
+    <string name="nn5">Другой фон</string>
+    <string name="nn6">Ластик</string>
+    <string name="nn7">Очистить фон</string>
+    <string name="nn8">На весь экран</string>
+    <string name="nn9">Отправить</string>
+    <string name="pp1">Переименовать</string>
+    <string name="pr1">Выбор темы</string>
+    <string name="pr2">Список папок</string>
+    <string name="pr3">Текст в записи</string>
+    <string name="pr4">Cписок папок</string>
+    <string name="pr5">Текст в записи</string>
+    <string name="pr6">Текст в таблице</string>
+    <string name="pr7">Включить ссылки в тексте</string>
+
+    <string name="pr9">Выберите тему приложения</string>
+    <string name="pr10">Шрифт</string>
+    <string name="pr11">Выберите шрифт списка папок</string>
+    <string name="pr12">Выберите шрифт текста в записи</string>
+    <string name="pr13">Размер шрифта</string>
+    <string name="pr14">Выберите размер шрифта</string>
+    <string name="pr15">Выберите размер шрифта</string>
+    <string name="pr16">Текст в заметках</string>
+    <string name="title_activity_preference">Настройки</string>
+
+    <string-array name="fontsize">
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+    </string-array>
+
+    <string-array name="fontLS">
+        <item>Times New Roman</item>
+        <item>Nautiluspompilius</item>
+        <item>Comic Sans MS</item>
+        <item>Arkhip</item>
+        <item>Kremlin</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+
+    <string name="d1">Диктофон включен</string>
+    <string name="nnn">Рисунок</string>
+    <string name="record_added">Запись добавлена</string>
+    <string name="th1">Тема</string>
+
+    <string name="ls7"> Облако (Google Drive) </string>
+    <string name="ls8">Отсутствует соединение с интернет</string>
+
+    <string name="action_scan">UPLOAD file</string>
+    <string name="action_list">DOWNLOAD all files</string>
+    <string name="action_delete">DELETE all files</string>
+    <string name="action_account">Select Google Account…</string>
+    <string name="obl"> Backup (GoogleDrive) </string>
+
+    <string name="err_auth_sha">CHECK PackageName / SHA1\nin Developers Console!</string>
+    <string name="err_auth_dono">UNSPECIFIED GOOGLE DRIVE\nACCESS FAILURE!</string>
+    <string name="err_auth_accpick">NO ACCOUNT SELECTED!</string>
+    <string name="err_auth_nogo">ACCESS NOT AUTHORIZED!</string>
+    <string name="mmm7">Показать в виджете</string>
+    <string name="pr20">Показать подписи кнопок</string>
+    <string name="pos">Поз.</string>
+    <string name="sy">Это может занять несколько минут...</string>
+    <string name="sycancel"></string>
+    <string name="gl1"> Нажмите еще раз для выхода из приложения</string>
+    <string name="err">К сожалению, при загрузке файлов, произошла ошибка. Повторите синхронизацию.</string>
+    <string name="povt">Повторить</string>
+    <string name="commno">Комментариев нет</string>
+
+
+    <string name="ga17">Звонки</string>
+    <string name="w4">Запись сохранена в папку "Звонки"</string>
+    <string name="w5">Телефонный разговор c </string>
+    <string name="w6">неизвестно</string>
+    <string name="rer1">Документы</string>
+    <string name="rer2">Изображения</string>
+    <string name="rer3">Все</string>
+
+</resources>

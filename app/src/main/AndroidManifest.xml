@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="snyakovlev.unote"
+    android:installLocation="internalOnly">
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/Blue.Base"
+       >
+
+
+        <activity
+            android:name=".Splash0"
+            android:label="@string/title_activity_splash1"
+            android:theme="@style/Blue.Base">
+            <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity
+            android:name=".ViewF"
+            android:label="@string/title_activity_view_f"
+            android:theme="@style/Green.Base.NoActionBar" />
+
+        <provider
+            android:name=".GenericFileProvider"
+            android:authorities="snyakovlev.unote.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <service android:name=".BootService2" />
+
+        <activity
+            android:name=".Glavnoe_Activity"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <receiver android:name=".BootCompl2">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.REBOOT" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name=".Widget"
+            android:enabled="true"
+            android:exported="true"
+            android:icon="@mipmap/ic_launcher">
+            <intent-filter android:priority="30000000">
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.yakovlev.sergey.android.notebook.q_photo" />
+                <action android:name="com.yakovlev.sergey.android.notebook.q_paint" />
+                <action android:name="com.yakovlev.sergey.android.notebook.q_mickr" />
+                <action android:name="com.yakovlev.sergey.android.notebook.q_text" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_metadata" />
+        </receiver>
+        <receiver
+            android:name=".Widget2"
+            android:enabled="true"
+            android:exported="true"
+            android:icon="@mipmap/ic_launcher">
+            <intent-filter android:priority="30000000">
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="ON_MORE_CLICK" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_metadata2" />
+        </receiver>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".QuiqActivity"
+            android:label="@string/app_name"
+            android:theme="@style/myDialog" />
+
+        <service
+            android:name=".Dickt"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service
+            android:name=".Widget$UpdateService"
+            android:enabled="true"
+            android:exported="true" />
+        <service
+            android:name=".WidgetRemoteViewsService"
+            android:permission="android.permission.BIND_REMOTEVIEWS" />
+
+        <activity
+            android:name=".preference"
+            android:label="@string/title_activity_preference"
+            android:theme="@style/Green.Base" />
+        <activity
+            android:name=".ActivityAlarm"
+            android:theme="@style/myDialog" />
+    </application>
+
+</manifest>

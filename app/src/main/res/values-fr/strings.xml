@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ga18">Download</string>
+    <string name="app_name2">UNotes</string>
+    <string name="gd1">Synchronisation avec Google Drive...</string>
+    <string name= "gd2" > trouvé </string>
+    <string name= "gd3" > créé </string>
+    <string name= "gd4" > erreur </string>
+    <string name= "gd5" > terminé! </string>
+    <string name= "gd6" > supprimé </string>
+
+    <string name = "aa1"> Rappel! </string>
+      <string name = "af1"> "Rappel annulé!" </string>
+      <string name = "af2"> Définissez la date et l\'heure du rappel! </string>
+      <string name = "bs2"> Rappels restaurés </string>
+      <string name = "c1"> Erreur lors de la division par zéro </string>
+      <string name = "pr8">Vert</string>
+      <string-array name = "theme">
+      <item>Vert</item>
+      <item>Bleu</item>
+      <item>Rose</item>
+      <item>Jaune</item>
+      <item>Jour/Nuit</item>
+      </string-array>
+
+      <string name = "create_table"> Nouveau dossier ... </string>
+
+      <string name = "ct1"> Options de table </string>
+      <string name = "ct2"> Colonne </string>
+      <string name = "ct3"> Entrez le nom de la table </string>
+      <string name = "ct4"> Vous devez créer au moins deux colonnes dans la table </string>
+      <string name = "ct5"> Table créée </string>
+      <string name = "ct6"> Modèle (table) </string>
+      <string name = "ct7"> Supprimer </string>
+      <string name = "ct8"> Créer comme modèle? </string>
+      <string name = "ct9"> Liste </string>
+    <string name="skr">Masquer</string>
+
+    <string name="pcol">+colonne</string>
+    <string name="mcol">-colonne</string>
+    <string name="prow">+rangée</string>
+    <string name="mrow">-rangée</string>
+
+      <string name = "createtemplate"> Mot de modèle (phrase) </string>
+
+      <string name = "ed1"> Réessayez </string>
+      <string name = "ed2"> Modèle (mot / phrase) </string>
+      <string name = "ed3"> Créer </string>
+      <string name = "ed4"> Jeu de rappel </string>
+      <string name = "ed5"> Remarque non ajoutée </string>
+      <string name = "ed6"> Remarque ajoutée </string>
+      <string name = "ed7"> La note est enregistrée </string>
+      <string name = "ed8"> Voulez-vous cette couleur d\'arrière-plan par défaut? </string>
+      <string name = "ed9"> Faire de cette couleur par défaut du texte? </string>
+
+
+      <string name = "yes"> Oui </string>
+      <string name = "no"> Aucun </string>
+      <string name = "ok"> OK </string>
+      <string name = "cansel"> Annuler </string>
+      <string name = "otmena"> Annuler </string>
+      <string name = "app_cancel"> Voulez-vous quitter l\'application?  </string>
+      <string name = "quest1"> Voulez-vous supprimer ce dossier? "</string>
+      <string name = "create_worklist"> L\'entrée a été créée: </string>
+
+
+      <string name = "et1"> nouvel élément ... </string>
+      <string name = "et3"> Afficher: </string>
+      <string name = "et2"> Envoyer </string>
+      <string name = "et4"> Nom ... </string>
+
+      <string name = "setpassword"> Mot de passe ... </string>
+
+      <string name = "ga1"> Pour fonctionner correctement, l\'application doit obtenir un permis de travail </string>
+      <string name = "ga2"> avec certaines fonctions du téléphone (comprimé), sont les exigences du système d\'exploitation "Android", </string>
+      <string name = "ga3"> si vous n\'êtes pas </string>
+      <string name = "ga4"> donne la permission, alors malheureusement, l\'application se terminera par </string>
+      <string name = "ga5"> Aucune autorisation n\'a été reçue. </string>
+      <string name = "ga6"> L\'application est terminée </string>
+      <string name = "ga7"> Corbeille </string>
+      <string name = "ga8"> L\'entrée a été créée dans le dossier QuickStart </string>
+      <string name = "ga9"> Message ... </string>
+      <string name = "ga10"> Redémarrer ... </string>
+      <string name = "ga11"> Continuer ... </string>
+      <string name = "ga12"> Enregistrer sous ... </string>
+      <string name = "ga13"> Chemin: </string>
+      <string name = "ga14"> Sélectionnez la feuille à renommer </string>
+      <string name = "ga15"> Sélectionnez les feuilles à supprimer </string>
+      <string name = "ga16"> Fichiers reçus.Pour mettre à jour la base de données, vous devez redémarrer l\'application ... </string>
+
+
+      <string name = "ls1"> Périphérique (carte mémoire) </string>
+      <string name = "ls2"> Créer une découpe.  copier </string>
+      <string name = "ls3"> Récupérer les données </string>
+      <string name = "ls4"> Fichier de sauvegarde introuvable </string>
+      <string name = "ls5"> La sauvegarde a été créée </string>
+      <string name = "ls6"> Erreur lors de la création du fichier de sauvegarde </string>
+
+
+      <string name = "pc1"> Direct uniquement </string>
+      <string name = "pc2"> Courbes arbitraires </string>
+      <string name = "pc3"> Sélectionnez la couleur d\'arrière-plan </string>
+      <string name = "pc4"> Palette </string>
+      <string name = "pc5"> Galerie </string>
+
+
+      <string name = "rs1"> Nouveau nom ... </string>
+
+      <string name = "error_voice_recognition"> Erreur de reconnaissance vocale </string>
+
+
+      <string name = "w1"> Les autorisations correspondantes ne sont pas reçues.</string>
+      <string name = "w2"> L\'entrée est enregistrée dans le dossier "QuickStart" </string>
+     
+      <string name = "wa1"> Modifier </string>
+      <string name = "wa2"> Commentaire </string>
+      <string name = "wa3"> Note text </string>
+      <string name = "wa4"> pas de texte </string>
+
+      <string name = "wl1"> Aucune note dans le panier </string>
+      <string name = "wl2"> Notes sélectionnées supprimées </string>
+      <string name = "wl3"> Enregistrement non sélectionné </string>
+      <string name = "wl4"> Etes-vous sûr de vouloir supprimer définitivement les notes sélectionnées? </string>
+      <string name = "wl5"> Sélectionnez les notes à supprimer </string>
+      <string name = "wl6"> Le dossier actuel en est un.
+  Créez au moins un autre dossier pour déplacer des enregistrements. </string>
+      <string name = "wl7"> Créer un dossier </string>
+      <string name = "wl8"> Déplacer vers ... </string>
+      <string name = "wl9"> Les notes sélectionnées sont déplacées dans la corbeille </string>
+      <string name = "wl10"> Sélectionnez les notes à déplacer </string>
+      <string name = "wl11"> L\'entrée a été ajoutée </string>
+     
+      <string name = "ag1"> Préférences </string>
+      <string name = "ag2"> Aide en ligne </string>
+      <string name = "ag3"> Evaluez l\'application </string>
+      <string name = "alf1"> Rappel </string>
+      <string name = "alf2"> Date </string>
+      <string name = "alf3"> Heure </string>
+
+      <string name = "vn"> Entrez un nom </string>
+      <string name = "edl1"> Texte </string>
+      <string name = "ll1"> Modifier </string>
+      <string name = "ll2"> Ouvrez la table </string>
+      <string name = "avt"> Mot de passe </string>
+      <string name = "log1"> Connexion </string>
+      <string name = "tl1"> Nom ... </string>
+
+      <string name = "wll1"> Liste </string>
+      <string name = "wll2"> Table </string>
+      <string name = "wll3"> Figure </string>
+      <string name = "wll4"> Dictaphone </string>
+      <string name = "wll5"> Texte </string>
+      <string name = "wll6"> Photo </string>
+
+      <string name = "wll12"> Liste </string>
+      <string name = "wll13"> Table. </string>
+      <string name = "wll14"> Figure </string>
+      <string name = "wll15"> Dictate </string>
+      <string name = "wll16"> Texte </string>
+      <string name = "wll17"> Photo </string>
+      <string name = "wll18"> Il n\'y a pas d\'enregistrements.  Cliquez sur \"+\" et sélectionnez le type d’informations dont vous avez besoin. </string>
+      <string name = "wll7"> Il n\'y a pas d\'enregistrements.  Cliquez sur \"+\" et sélectionnez le type d’informations dont vous avez besoin. </string>
+
+      <string name = "ustroistvo"> Sauvegarde </string>
+
+      <string name = "mm2"> Couleur d\'arrière-plan </string>
+      <string name = "mm3"> Couleur du texte </string>
+      <string name = "mm4"> Sélectionner tout </string>
+      <string name = "mm5"> Move </string>
+      <string name = "mm6"> Supprimer </string>
+
+      <string name = "men1"> Calculatrice </string>
+      <string name = "men2"> Insérer la date </string>
+      <string name = "men3"> Insérer l\'heure </string>
+      <string name = "men4"> Envoyer </string>
+      <string name = "men5"> Prev  visualisation </string>
+      <string name = "men6"> Seulement avec un retrait (colonne 1) </string>
+      <string name = "mmm1"> Composition vocale </string>
+      <string name = "mmm2"> Insérer un modèle (mot / phrase) </string>
+      <string name = "mmm3"> Insérer la date </string>
+      <string name = "mmm4"> Insérer l\'heure </string>
+      <string name = "mmm5"> Couleur d\'arrière-plan </string>
+      <string name = "mmm6"> Couleur du texte </string>
+      <string name = "nn1"> Suivant </string>
+      <string name = "nn2"> Retour </string>
+      <string name = "nn3"> Direct uniquement </string>
+      <string name = "nn4"> Palette </string>
+      <string name = "nn5"> Autre arrière-plan </string>
+      <string name = "nn6"> Gomme </string>
+      <string name = "nn7"> Effacer l\'arrière-plan </string>
+      <string name = "nn8"> Plein écran </string>
+      <string name = "nn9"> Envoyer </string>
+      <string name = "pp1"> Renommer </string>
+      <string name = "pr1"> Sélection d\'un thème </string>
+      <string name = "pr2"> Liste des dossiers </string>
+      <string name = "pr3"> Texte dans l\'enregistrement </string>
+      <string name = "pr4"> Liste des dossiers </string>
+      <string name = "pr5"> Texte dans l\'enregistrement </string>
+      <string name = "pr6"> Texte dans la table </string>
+      <string name = "pr7"> Inclure des liens dans le texte </string>
+
+      <string name = "pr9"> Sélectionnez le thème de l\'application </string>
+      <string name = "pr10"> Police </string>
+      <string name = "pr11"> Sélectionnez la police de la liste de dossiers </string>
+      <string name = "pr12"> Sélectionnez la police de texte dans l\'entrée </string>
+      <string name = "pr13"> Taille de la police </string>
+      <string name = "pr14"> Sélectionnez la taille de la police </string>
+      <string name = "pr15"> Sélectionnez la taille de la police </string>
+      <string name = "pr16"> Texte dans Notes </string>
+    <string name="title_activity_preference">Les paramètres</string>
+
+    <string-array name="fontsize">
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+    </string-array>
+
+    <string-array name="fontLS">
+        <item>Times New Roman</item>
+        <item>Nautiluspompilius</item>
+        <item>Comic Sans MS</item>
+        <item>Arkhip</item>
+        <item>Kremlin</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+
+    <string name = "d1"> L\'enregistreur est activé </string>
+      <string name = "nnn"> Figure </string>
+      <string name = "record_added"> L\'entrée a été ajoutée </string>
+    <string name="th1">Thème</string>
+
+    <string name="ls7"> Nuage (Google Drive) </string>
+    <string name="ls8"> No Internet connection</string>
+    <string name="obl"> Backup (GoogleDrive) </string>
+
+    <string name="action_scan">UPLOAD file</string>
+    <string name="action_list">DOWNLOAD all files</string>
+    <string name="action_delete">DELETE all files</string>
+    <string name="action_account">Select Google Account…</string>
+
+    <string name="err_auth_sha">CHECK PackageName / SHA1\nin Developers Console!</string>
+    <string name="err_auth_dono">UNSPECIFIED GOOGLE DRIVE\nACCESS FAILURE!</string>
+    <string name="err_auth_accpick">NO ACCOUNT SELECTED!</string>
+    <string name="err_auth_nogo">ACCESS NOT AUTHORIZED!</string>
+
+    <string name="mmm7"> Afficher dans le widget </string>
+
+    <string name="pr20">Afficher les signatures des boutons </string>
+    <string name="pos">Pos.</string>
+    <string name="sy">Cela peut prendre quelques minutes...</string>
+    <string name="sycancel"></string>
+    <string name="gl1">Appuyez à nouveau pour quitter l\'application</string>
+    <string name="err">malheureusement, une erreur s\'est produite lors  du téléchargement des fichiers. Répétez la synchronisation.</string>
+    <string name="povt">Répéter </string>
+    <string name="commno">Aucun commentaire</string>
+    <string name="w3">photos enregistrées dans le dossier "QuickStart" </string>
+    <string name="ga17">Appels</string>
+    <string name="w4">Enregistrement enregistré dans le dossier "Appels" </string>
+    <string name="w5">conversation Téléphonique avec </string>
+    <string name="w6">unknown</string>
+
+    <string name="rer1">Documents</string>
+    <string name="rer2">Images</string>
+    <string name="rer3">All</string>
+
+</resources>

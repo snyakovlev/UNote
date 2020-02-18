@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <item
+        android:id="@+id/setl"
+        android:icon="@drawable/colo"
+        android:orderInCategory="100"
+        android:title="@string/nn3"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/setcolor"
+        android:icon="@drawable/colo"
+        android:orderInCategory="100"
+        android:title="@string/nn4"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/setcolorback"
+        android:icon="@drawable/colo"
+        android:orderInCategory="100"
+        android:title="@string/nn5"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/create_pic"
+        android:title=""
+        android:icon="@drawable/galochka"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/clear"
+        android:icon="@drawable/vedro"
+        android:orderInCategory="100"
+        android:title="@string/nn6"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/clear2"
+        android:icon="@drawable/vedro"
+        android:orderInCategory="100"
+        android:title="@string/nn7"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/full"
+        android:icon="@drawable/vedro"
+        android:orderInCategory="100"
+        android:title="@string/nn8"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/share_image"
+        android:icon="@drawable/ic_share"
+        android:orderInCategory="100"
+        android:title="@string/nn9"
+        app:showAsAction="never" />
+
+
+</menu>
+

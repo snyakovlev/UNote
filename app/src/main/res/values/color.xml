@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="transporent">#00000000</color>
+
+
+    <color name="colorAccentGreen">#338939</color>
+    <color name="colorPrimaryGreen">#42b449</color>
+    <color name="colorPrimaryDarkGreen">#06560e</color>
+
+    <color name="colorAccentRed">#e040fb</color>
+    <color name="colorPrimaryRed">#f87894</color>
+    <color name="colorPrimaryDarkRed">#fd0559</color>
+
+    <color name="colorAccentBlue">#00bcd4</color>
+    <color name="colorPrimaryBlue">#5677fc</color>
+    <color name="colorPrimaryDarkBlue">#3f51b5</color>
+
+    <color name="colorAccentYellow">#f7c944</color>
+    <color name="colorPrimaryYellow">#f7c933</color>
+    <color name="colorPrimaryDarkYellow">#ff8400</color>
+
+    <color name="white">#ffffff</color>
+    <color name="lgreen">#a1aaf5b8</color>
+    <color name="gray">#595959</color>
+    <color name="acgray">#383838</color>
+    <color name="darkgray">#262626</color>
+
+</resources>

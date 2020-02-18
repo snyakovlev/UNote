@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:app="http://schemas.android.com/apk/res-auto"
+
+          xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+  <!--  <item android:id="@+id/alarm"
+          android:title=""
+          android:orderInCategory="100"
+          app:showAsAction="always"
+          android:icon="@drawable/ic_alarm"
+
+        />!-->
+
+      <item
+          android:id="@+id/edit"
+          android:icon="@drawable/edit"
+          android:title="edit"
+          app:showAsAction="always" />
+      <item android:id="@+id/share_text"
+          android:title=""
+          android:orderInCategory="100"
+          app:showAsAction="always"
+          android:icon="@drawable/ic_share"
+
+        />
+
+  <item android:id="@+id/typeclav"
+        android:title=""
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/clava"/>
+
+  <item
+      android:id="@+id/temp_phrase"
+      android:icon="@drawable/text"
+      android:orderInCategory="100"
+      android:title="@string/mmm2"
+      app:showAsAction="ifRoom"
+
+      />
+
+
+  <item
+      android:id="@+id/date"
+      android:icon="@drawable/today"
+      android:orderInCategory="100"
+      android:title="@string/mmm3"
+      app:showAsAction="ifRoom" />
+
+  <item
+      android:id="@+id/time"
+      android:icon="@drawable/time"
+      android:orderInCategory="100"
+      android:title="@string/mmm4"
+      app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cancel"
+        android:title=""
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/galochka"
+
+    />
+  <item
+      android:id="@+id/colfon2"
+      android:icon="@drawable/all"
+      android:orderInCategory="100"
+      android:title="@string/mmm5"
+      app:showAsAction="never" />
+
+  <item
+      android:id="@+id/coltext2"
+      android:icon="@drawable/all"
+      android:orderInCategory="100"
+      android:title="@string/mmm6"
+      app:showAsAction="never" />
+
+    <item
+        android:id="@+id/widget"
+        android:icon="@drawable/all"
+        android:orderInCategory="100"
+        android:title="@string/mmm7"
+        app:showAsAction="never" />
+
+</menu>

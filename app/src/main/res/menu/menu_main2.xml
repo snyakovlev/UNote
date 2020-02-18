@@ -1,0 +1,71 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+
+<item android:id="@+id/search"
+    android:title="Search"
+    android:icon="@drawable/lupa"
+    app:showAsAction="always|collapseActionView"
+    app:actionViewClass="android.support.v7.widget.SearchView"
+    />
+
+
+    <item android:id="@+id/lock"
+        android:title=""
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/verified_user24dp" />
+
+
+    <item android:id="@+id/im_home"
+          android:title=""
+          android:orderInCategory="100"
+          app:showAsAction="always"
+          android:icon="@drawable/folders" />
+
+    <item android:id="@+id/lay"
+        android:title=""
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/line" />
+
+
+    <item
+        android:id="@+id/colfon"
+        android:icon="@drawable/all"
+        android:orderInCategory="100"
+        android:title="@string/mm2"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/coltext"
+        android:icon="@drawable/all"
+        android:orderInCategory="100"
+        android:title="@string/mm3"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/all2"
+        android:icon="@drawable/all"
+        android:orderInCategory="100"
+        android:title="@string/mm4"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/wlmove"
+        android:icon="@drawable/ic_perem"
+        android:orderInCategory="100"
+        android:title="@string/mm5"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/wldel"
+        android:icon="@drawable/vedro"
+        android:orderInCategory="100"
+        android:title="@string/mm6"
+        app:showAsAction="never" />
+
+
+</menu>

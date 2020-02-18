@@ -1,0 +1,267 @@
+<android.support.design.widget.CoordinatorLayout
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+
+    <TextView
+        android:id="@+id/tv201"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:layout_margin="16dp"
+        android:gravity="center_horizontal"
+        android:lines="6"
+        android:text="@string/wll7" />
+
+
+
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/worklistlist"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/tappx_banner_2"
+            android:background="@android:color/white">
+
+        </android.support.v7.widget.RecyclerView>
+
+
+
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="right">
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/fab21"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/fab_margin"
+            android:layout_marginBottom="4dp"
+            android:elevation="6dp"
+            android:src="@drawable/text"
+            android:visibility="visible"
+            fab:fabSize="mini"
+            fab:pressedTranslationZ="0dp" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/fab24"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/fab_margin"
+            android:layout_marginBottom="4dp"
+            android:elevation="6dp"
+            android:src="@drawable/table"
+            android:visibility="visible"
+            fab:fabSize="mini"
+            fab:pressedTranslationZ="0dp" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/fab22"
+
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/fab_margin"
+            android:layout_marginBottom="4dp"
+            android:elevation="6dp"
+            android:src="@drawable/mic"
+            android:visibility="visible"
+            fab:fabSize="mini"
+            fab:pressedTranslationZ="0dp" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/fab2"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/fab_margin"
+            android:layout_marginBottom="4dp"
+            android:elevation="6dp"
+            android:src="@drawable/camera"
+            android:visibility="visible"
+            fab:fabSize="mini"
+            fab:pressedTranslationZ="0dp" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/fab25"
+
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/fab_margin"
+            android:layout_marginBottom="4dp"
+            android:elevation="6dp"
+            android:src="@drawable/list"
+
+            android:visibility="visible"
+            fab:fabSize="mini"
+            fab:pressedTranslationZ="0dp" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginRight="@dimen/fab_margin"
+            android:layout_marginBottom="@dimen/fab_margin"
+            android:elevation="6dp"
+            android:src="@drawable/plusic"
+            fab:pressedTranslationZ="0dp" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/fab23"
+
+            android:layout_alignParentRight="true"
+            android:layout_gravity="bottom|end"
+            android:layout_marginRight="@dimen/fab_margin"
+            android:layout_marginBottom="4dp"
+            android:elevation="6dp"
+            android:src="@drawable/paint"
+
+            android:visibility="visible"
+            fab:fabSize="mini"
+            fab:pressedTranslationZ="0dp" />
+
+        <TextView
+            android:id="@+id/tt1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/fab26"
+            android:layout_alignRight="@+id/tt2"
+            android:layout_alignBottom="@+id/fab26"
+            android:layout_centerVertical="false"
+            android:layout_marginTop="13dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginBottom="13dp"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:maxLines="1"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:text="@string/wll1"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/fab25"
+            android:layout_alignBottom="@+id/fab25"
+            android:layout_marginTop="13dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginBottom="13dp"
+            android:layout_toLeftOf="@+id/fab25"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:text="@string/wll2"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tt3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/fab24"
+            android:layout_alignBottom="@+id/fab24"
+            android:layout_marginTop="13dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginBottom="13dp"
+            android:layout_toLeftOf="@+id/fab24"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:text="@string/wll3"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tt4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/fab23"
+            android:layout_alignBottom="@+id/fab23"
+            android:layout_marginTop="13dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginBottom="13dp"
+            android:layout_toLeftOf="@+id/fab23"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:text="@string/wll4"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tt5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/fab22"
+            android:layout_alignBottom="@+id/fab22"
+            android:layout_marginTop="13dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginBottom="13dp"
+            android:layout_toLeftOf="@+id/fab22"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:text="@string/wll5"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tt6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/fab21"
+            android:layout_alignBottom="@+id/fab21"
+            android:layout_alignParentBottom="false"
+            android:layout_marginTop="13dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginBottom="13dp"
+            android:layout_toLeftOf="@+id/fab21"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:text="@string/wll6"
+            android:textSize="10sp"
+            android:textStyle="bold"
+            android:visibility="gone" />
+
+
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>

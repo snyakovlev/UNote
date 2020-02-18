@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ga18">Download</string>
+    <string name="gd1"> Synchronisieren mit Google Drive</string>
+    <string name="app_name2">UNotes</string>
+
+    <string name="gd2">gefunden</string>
+    <string name="gd3">erstellt</string>
+    <string name= "gd4">fehler</string>
+    <string name="gd5">Fertig!</string>
+    <string name="gd6">gelöscht</string>
+
+    <string name = "aa1"> Erinnerung! </string>
+      <string name = "af1"> "Erinnerung abgebrochen!" </string>
+      <string name = "af2"> Stellen sie Datum und uhrzeit der erinnerung ein! </string>
+      <string name = "bs2"> Erinnerungen wiederhergestellt </string>
+      <string name = "c1"> Fehler durch null teilen </string>
+    <string name="skr">Verstecken</string>
+
+    <string name="pcol">+spalte</string>
+    <string name="mcol">-spalte</string>
+    <string name="prow">+zeile</string>
+    <string name="mrow">-zeile</string>
+
+
+    <string name = "pr8">Grün</string>
+      <string-array name = "theme">
+      <item>Grün</item>
+      <item>Blau</item>
+      <item>Pink</item>
+      <item>Gelb</item>
+      <item>Tag/Nacht</item>
+      </string-array>
+
+      <string name = "create_table"> Neuer Ordner ... </string>
+
+      <string name = "ct1"> Tabellenoptionen </string>
+      <string name = "ct2"> Spalte </string>
+      <string name = "ct3"> Geben sie den namen der tabelle </string>
+      <string name = "ct4"> Sie müssen mindestens zwei spalten in der tabelle </string>
+      <string name = "ct5"> Tabelle erstellt </string>
+      <string name = "ct6"> Vorlage (Tabelle) </string>
+      <string name = "ct7"> Löschen </string>
+      <string name = "ct8"> Als Vorlage erstellen? </string>
+      <string name = "ct9"> Liste </string>
+
+
+      <string name = "createtemplate"> Vorlagenwort (Phrase) </string>
+
+      <string name = "ed1"> Erneut versuchen </string>
+      <string name = "ed2"> Vorlage (Wort / Satz) </string>
+      <string name = "ed3"> Erstellen </string>
+      <string name = "ed4"> Erinnerung festgelegt </string>
+      <string name = "ed5"> Hinweis nicht hinzugefügt </string>
+      <string name = "ed6"> Hinweis hinzugefügt </string>
+      <string name = "ed7"> Die Notiz wird gespeichert </string>
+      <string name = "ed8"> Möchten Sie diese Standardhintergrundfarbe? </string>
+      <string name = "ed9"> Möchten Sie dies zur Standardtextfarbe machen? </string>
+
+
+      <string name= "yes"> Ja </string>
+      <string name= "no"> Keine </string>
+      <string name= "ok"> OK </string>
+      <string name = "cansel"> Abbrechen </string>
+      <string name = "otmena"> Abbrechen </string>
+      <string name = "app_cancel"> Möchten Sie die anwendung beenden?  </string>
+      <string name = "quest1"> Möchten Sie diesen Ordner löschen? "</string>
+      <string name = "create_worklist"> Der eintrag wurde erstellt: </string>
+
+
+      <string name = "et1"> neues element ... </string>
+      <string name = "et3"> Ansicht: </string>
+      <string name = "et2"> Senden </string>
+      <string name = "et4"> Name ... </string>
+
+      <string name = "setpassword"> Passwort ... </string>
+
+      <string name = "ga1"> Für den korrekten betrieb der anwendung müssen sie arbeitsgenehmigungen erhalten </string>
+      <string name = "ga2"> mit einigen funktionen des telefons (Tablet), das sind die anforderungen des betriebssystems "Android", </string>
+      <string name = "ga3"> wenn sie nicht </string>
+      <string name = "ga4"> Erlaubnis geben, dann endet die anwendung leider </string>
+      <string name = "ga5"> Es wurden keine berechtigungen empfangen. </string>
+      <string name = "ga6"> Die anwendung ist abgeschlossen </string>
+      <string name = "ga7"> Papierkorb </string>
+      <string name = "ga8"> Der eintrag wurde im ordner "QuickStart" </string>
+      <string name = "ga9"> Nachricht ... </string>
+      <string name = "ga10"> Neustart ... </string>
+      <string name = "ga11"> Weiter ... </string>
+      <string name = "ga12"> Speichern unter ... </string>
+      <string name = "ga13"> Pfad: </string>
+      <string name = "ga14"> Wählen Sie das umzubenennende blatt </string>
+      <string name = "ga15"> Wählen Sie die zu löschenden blätter </string>
+      <string name = "ga16"> Dateien empfangen.
+ Um die datenbank zu aktualisieren, müssen Sie die anwendung ... </string>
+
+
+      <string name = "ls1"> Gerät (Speicherkarte) </string>
+      <string name = "ls2"> Schnitt erstellen.  kopiere </string>
+      <string name = "ls3"> Daten wiederherstellen </string>
+      <string name = "ls4"> Sicherungsdatei nicht gefunden </string>
+      <string name = "ls5"> Die sicherung wurde erstellt </string>
+      <string name = "ls6"> Fehler beim estellen der sicherungsdatei </string>
+
+
+      <string name = "pc1"> Nur direkte </string>
+      <string name = "pc2"> Beliebige Kurven </string>
+      <string name = "pc3"> Wählen sie die hintergrundfarbe </string>
+      <string name = "pc4"> Palette </string>
+      <string name = "pc5"> Galerie </string>
+
+
+      <string name = "rs1"> Neuer name ... </string>
+
+      <string name = "error_voice_recognition"> Spracherkennungsfehler </string>
+
+
+      <string name = "w1"> Die entsprechenden berechtigungen werden nicht empfangen.</string>
+      <string name = "w2"> Der eintrag wird im Ordner "QuickStart" </string>
+     
+      <string name = "wa1"> Bearbeiten </string>
+      <string name = "wa2"> Kommentar </string>
+      <string name = "wa3"> Notizentext </string>
+      <string name = "wa4"> Kein text </string>
+
+      <string name = "wl1"> Es befinden sich keine Notizen im warenkorb </string>
+      <string name = "wl2"> Ausgewählte notizen gelöscht </string>
+      <string name = "wl3"> Datensatz nicht ausgewählt </string>
+      <string name = "wl4"> Möchten sie die ausgewählten notizen wirklich dauerhaft löschen? </string>
+      <string name = "wl5"> Wählen sie die zu löschenden notizen aus</string>
+      <string name = "wl6"> Der aktuelle ordner ist einer.
+  Erstellen Sie mindestens einen weiteren ordner zum verschieben von datensätzen. </string>
+      <string name = "wl7"> Ordner erstellen </string>
+      <string name = "wl8"> Verschieben nach ... </string>
+      <string name = "wl9"> Ausgewählte notizen werden in den papierkorb verschoben </string>
+      <string name = "wl10"> Wählen Sie die zu verschiebenden Notizen aus</string>
+      <string name = "wl11"> Der Eintrag wurde hinzugefügt </string>
+     
+      <string name = "ag1"> Einstellungen </string>
+      <string name = "ag2"> Online-Hilfe </string>
+      <string name = "ag3"> Evaluiere die Anwendung </string>
+      <string name = "alf1"> Erinnerung </string>
+      <string name = "alf2"> Datum </string>
+      <string name = "alf3"> Zeit </string>
+
+      <string name = "vn"> Geben Sie einen Namen ein </string>
+      <string name = "edl1"> Text </string>
+      <string name = "ll1"> Bearbeiten </string>
+      <string name = "ll2"> Öffnen Sie die Tabelle </string>
+      <string name = "avt"> Passwort </string>
+      <string name = "log1"> Anmeldung </string>
+      <string name = "tl1"> Name ... </string>
+
+      <string name = "wll1"> Liste </string>
+      <string name = "wll2"> Tabelle </string>
+      <string name = "wll3"> Abbildung </string>
+      <string name = "wll4"> Diktiergerät </string>
+      <string name= "wll5"> Text </string>
+      <string name = "wll6"> Foto </string>
+
+      <string name = "wll12"> Liste </string>
+      <string name = "wll13"> Tabelle. </string>
+      <string name = "wll14"> Abbildung </string>
+      <string name = "wll15"> Diktieren </string>
+      <string name = "wll16"> Text </string>
+      <string name = "wll17"> Foto </string>
+      <string name = "wll18"> Es gibt keine Datensätze.  Klicken Sie auf \"+\" und wählen Sie den gewünschten Informationstyp aus. </string>
+      <string name = "wll7"> Es gibt keine Datensätze.  Klicken Sie auf \"+\" und wählen Sie den gewünschten Informationstyp aus. </string>
+
+      <string name = "ustroistvo"> Sicherung </string>
+
+      <string name = "mm2"> Hintergrundfarbe </string>
+      <string name = "mm3"> Textfarbe </string>
+      <string name= "mm4"> Alles auswählen </string>
+      <string name = "mm5"> Verschieben </string>
+      <string name = "mm6"> Löschen </string>
+
+      <string name = "men1"> Rechner </string>
+      <string name = "men2"> Datum einfügen </string>
+      <string name = "men3"> Zeit einfügen </string>
+      <string name = "men4"> Senden </string>
+      <string name = "men5"> Vorherige  Anzeige </string>
+      <string name = "men6"> Nur mit einem Einzug (Spalte 1) </string>
+      <string name = "mmm1"> Sprachwahl </string>
+      <string name = "mmm2"> Fügen Sie eine Vorlage (Wort / Phrase) </string> ein
+      <string name = "mmm3"> Datum einfügen </string>
+      <string name = "mmm4"> Zeit einfügen </string>
+      <string name = "mmm5"> Hintergrundfarbe </string>
+      <string name = "mmm6"> Textfarbe </string>
+      <string name = "nn1"> Weiter </string>
+      <string name = "nn2"> Zurück </string>
+      <string name = "nn3"> Nur direkte </string>
+      <string name = "nn4"> Palette </string>
+      <string name = "nn5"> Anderer Hintergrund </string>
+      <string name = "nn6"> Radierer </string>
+      <string name = "nn7"> Hintergrund löschen </string>
+      <string name= "nn8"> Vollbild </string>
+      <string name = "nn9"> Senden </string>
+      <string name= "pp1"> Umbenennen </string>
+      <string name = "pr1"> Auswählen eines Designs </string>
+      <string name= "pr2"> Ordnerliste </string>
+      <string name = "pr3"> Text im Datensatz </string>
+      <string name= "pr4"> Ordnerliste </string>
+      <string name = "pr5"> Text im Datensatz </string>
+      <string name = "pr6"> Text in der Tabelle </string>
+      <string name = "pr7"> Fügt Links in den Text </string> ein
+     
+      <string name = "pr9"> Wählen Sie das Anwendungsthema </string> aus
+      <string name = "pr10"> Schriftart </string>
+      <string name = "pr11"> Wählen Sie die Schriftart der Ordnerliste </string>
+      <string name = "pr12"> Wählen Sie die Schriftart im Eintrag </string>
+      <string name = "pr13"> Schriftgröße </string>
+      <string name = "pr14"> Wählen Sie die Schriftgröße </string>
+      <string name = "pr15"> Wählen Sie die Schriftgröße </string>
+      <string name = "pr16"> Text in Notizen </string>
+    <string name="title_activity_preference">Einstellungen</string>
+    <string-array name="fontsize">
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+    </string-array>
+
+    <string-array name="fontLS">
+        <item>Times New Roman</item>
+        <item>Nautiluspompilius</item>
+        <item>Comic Sans MS</item>
+        <item>Arkhip</item>
+        <item>Kremlin</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+
+    <string name = "d1"> Der Rekorder ist eingeschaltet </string>
+      <string name = "nnn"> Abbildung </string>
+      <string name = "record_added"> Der Eintrag wurde hinzugefügt </string>
+    <string name="th1">Thema</string>
+
+    <string name="ls7"> Wolke (Google Drive) </string>
+    <string name="ls8"> No Internet connection</string>
+
+    <string name="action_scan">UPLOAD file</string>
+    <string name="action_list">DOWNLOAD all files</string>
+    <string name="action_delete">DELETE all files</string>
+    <string name="action_account">Select Google Account…</string>
+    <string name="obl"> Backup (GoogleDrive) </string>
+
+    <string name="err_auth_sha">CHECK PackageName / SHA1\nin Developers Console!</string>
+    <string name="err_auth_dono">UNSPECIFIED GOOGLE DRIVE\nACCESS FAILURE!</string>
+    <string name="err_auth_accpick">NO ACCOUNT SELECTED!</string>
+    <string name="err_auth_nogo">ACCESS NOT AUTHORIZED!</string>
+
+    <string name="mmm7"> Im Widget anzeigen </string>
+
+    <string name="pr20">Tastensignaturen Anzeigen </string>
+    <string name="pos">Pos.</string>
+    <string name="sy">Es kann ein paar Minuten dauern...</string>
+    <string name="sycancel"></string>
+    <string name="gl1">Klicken Sie erneut, um die Anwendung zu beenden</string>
+    <string name="err">leider ist beim hochladen von Dateien ein Fehler aufgetreten. Wiederholen Sie die Synchronisierung.</string>
+    <string name="povt">Wiederholen </string>
+    <string name="commno">keine Kommentare Verfügbar </string>
+
+    <string name="w3">Fotos werden im Ordner "QuickStart" </string>
+    <string name="ga17">Anrufe</string>
+    <string name="w4">der Eintrag wird im Ordner "Anrufe" gespeichert. </string>
+    <string name="w5">Telefongespräch mit </string>
+    <string name="w6">unknown</string>
+
+    <string name="rer1">Documents</string>
+    <string name="rer2">Images</string>
+    <string name="rer3">All</string>
+
+</resources>

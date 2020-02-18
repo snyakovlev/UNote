@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<android.support.design.widget.CoordinatorLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_contenttt"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <RelativeLayout
+
+        android:id="@+id/rl"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content">
+
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fillViewport="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ScrollView
+                    android:id="@+id/scroll"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fillViewport="true">
+
+                    <LinearLayout
+                        android:id="@+id/linvert"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:orientation="vertical">
+
+                        <TableLayout
+                            android:id="@+id/tl"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/darkgray"
+                            android:padding="1dp">
+
+                            <TableRow
+                                android:id="@+id/tr0"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1" />
+
+
+                        </TableLayout>
+
+                    </LinearLayout>
+                </ScrollView>
+            </LinearLayout>
+        </HorizontalScrollView>
+
+
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>

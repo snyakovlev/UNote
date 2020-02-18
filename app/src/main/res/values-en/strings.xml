@@ -1,0 +1,279 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<resources>
+
+    <string name="ga18">Download</string>
+    <string name="app_name2">UNotes</string>
+    <string name="gd1">Sync with Google Drive...</string>
+    <string name="gd2">found</string>
+    <string name="gd3">created</string>
+    <string name="gd4">failed</string>
+    <string name="gd5">Done!</string>
+    <string name="gd6">deleted</string>
+    <string name = "aa1"> Reminder! </string>
+      <string name = "af1"> "Reminder canceled!" </string>
+      <string name = "af2"> Set the date and time of the reminder! </string>
+      <string name = "bs2"> Reminders restored </string>
+      <string name = "c1"> Error dividing by zero </string>
+
+    <string name="rer1">Documents</string>
+    <string name="rer2">Images</string>
+    <string name="rer3">All</string>
+    <string name = "pr8">Green</string>
+      <string-array name = "theme">
+      <item>Green</item>
+      <item>Blue</item>
+      <item>Pink</item>
+      <item>Yellow</item>
+      <item>Day/Night</item>
+      </string-array>
+
+      <string name = "create_table"> New folder ... </string>
+
+      <string name = "ct1"> Table Options </string>
+      <string name = "ct2"> Column </string>
+      <string name = "ct3"> Enter the name of the table </string>
+      <string name = "ct4"> You must create at least two column in the table </string>
+      <string name = "ct5"> Table created </string>
+      <string name = "ct6"> Template (table) </string>
+      <string name = "ct7"> Delete </string>
+      <string name = "ct8"> Create as a template? </string>
+      <string name = "ct9"> List </string>
+
+
+
+    <string name="skr">Hiden</string>
+
+
+      <string name = "createtemplate"> Template Word (Phrase) </string>
+
+      <string name = "ed1"> Try again </string>
+      <string name = "ed2"> Template (word / phrase) </string>
+      <string name = "ed3"> Create </string>
+      <string name = "ed4"> Reminder set </string>
+      <string name = "ed5"> Note not added </string>
+      <string name = "ed6"> Note added </string>
+      <string name = "ed7"> The note is saved </string>
+      <string name = "ed8"> Do you want this default background color? </string>
+      <string name = "ed9"> Do you want to make this the default text color? </string>
+
+
+      <string name = "yes"> Yes </string>
+      <string name = "no"> None </string>
+      <string name = "ok"> OK </string>
+      <string name = "cansel"> Cancel </string>
+      <string name = "otmena"> Cancel </string>
+      <string name = "app_cancel"> Do you want to exit the application?  </string>
+      <string name = "quest1"> Do you want to delete this folder? "</string>
+      <string name = "create_worklist"> The entry was created: </string>
+
+
+      <string name = "et1"> new item ... </string>
+      <string name = "et3"> View: </string>
+      <string name = "et2"> Send </string>
+      <string name = "et4"> Name ... </string>
+
+      <string name = "setpassword"> Password ... </string>
+
+      <string name = "ga1"> For the correct operation of the application, you need to obtain work permits </string>
+      <string name = "ga2"> with some functions of the phone (tablet), these are the requirements of the OS "Android", </string>
+      <string name = "ga3"> if you are not </string>
+      <string name = "ga4"> give permission, then unfortunately, the application will end </string>
+      <string name = "ga5"> No permissions have been received. </string>
+      <string name = "ga6"> The application is completed </string>
+      <string name = "ga7"> Trash </string>
+      <string name = "ga8"> The entry was created in the QuickStart folder </string>
+      <string name = "ga9"> Message ... </string>
+      <string name = "ga10"> Restart ... </string>
+      <string name = "ga11"> Continue ... </string>
+      <string name = "ga12"> Save as ... </string>
+      <string name = "ga13"> Path: </string>
+      <string name = "ga14"> Select the sheet to rename </string>
+      <string name = "ga15"> Select the sheets to be deleted </string>
+      <string name = "ga16"> Files received.
+ To update the database, you must restart the application ... </string>
+
+
+      <string name = "ls1"> Device (memory card) </string>
+      <string name = "ls2"> Create cut.  copy </string>
+      <string name = "ls3"> Recover Data </string>
+  <string name = "ls4"> Backup file not found </string>
+      <string name = "ls5"> The backup was created </string>
+      <string name = "ls6"> Error creating backup file </string>
+
+
+      <string name = "pc1"> Direct only </string>
+      <string name = "pc2"> Arbitrary curves </string>
+      <string name = "pc3"> Select the background color </string>
+      <string name = "pc4"> Palette </string>
+      <string name = "pc5"> Gallery </string>
+
+
+      <string name = "rs1"> New name ... </string>
+
+      <string name = "error_voice_recognition"> Voice recognition error </string>
+
+
+      <string name = "w1"> The corresponding permissions are not received.</string>
+      <string name = "w2"> The entry is saved to the "QuickStart" folder </string>
+     
+      <string name = "wa1"> Edit </string>
+      <string name = "wa2"> Comment </string>
+      <string name = "wa3"> Note text </string>
+      <string name = "wa4"> no text </string>
+
+      <string name = "wl1"> There are no notes in the Trash </string>
+      <string name = "wl2"> Selected notes deleted </string>
+      <string name = "wl3"> Record not selected </string>
+      <string name = "wl4"> Are you sure you want to permanently delete the selected notes? </string>
+      <string name = "wl5"> Select notes to delete </string>
+      <string name = "wl6"> The current folder is one.
+  Create at least one more folder to move records. </string>
+      <string name = "wl7"> Create folder </string>
+      <string name = "wl8"> Move to ... </string>
+      <string name = "wl9"> Selected notes are moved to the Trash </string>
+      <string name = "wl10"> Select notes to move </string>
+      <string name = "wl11"> The entry was added </string>
+     
+      <string name = "ag1"> Preferences </string>
+      <string name = "ag2"> Online Help </string>
+      <string name = "ag3"> Evaluate the application </string>
+      <string name = "alf1"> Reminder </string>
+      <string name = "alf2"> Date </string>
+      <string name = "alf3"> Time </string>
+
+      <string name = "vn"> Enter a name </string>
+      <string name = "edl1"> Text </string>
+      <string name = "ll1"> Edit </string>
+      <string name = "ll2"> Open the table </string>
+      <string name = "avt"> Password </string>
+      <string name = "log1"> Login </string>
+      <string name = "tl1"> Name ... </string>
+
+      <string name = "wll1"> List </string>
+      <string name = "wll2"> Table </string>
+      <string name = "wll3"> Figure </string>
+      <string name = "wll4"> Dictaphone </string>
+      <string name = "wll5"> Text </string>
+      <string name = "wll6"> Photo </string>
+
+      <string name = "wll12"> List </string>
+      <string name = "wll13"> Table. </string>
+      <string name = "wll14"> Figure </string>
+      <string name = "wll15"> Dictate </string>
+      <string name = "wll16"> Text </string>
+      <string name = "wll17"> Photo </string>
+      <string name = "wll18"> There are no records.  Click \"+\" and select the type of information you need. </string>
+      <string name = "wll7"> There are no records.  Click \"+\" and select the type of information you need. </string>
+
+      <string name = "ustroistvo"> Backup </string>
+
+      <string name = "mm2"> Background color </string>
+      <string name = "mm3"> Text color </string>
+      <string name = "mm4"> Select all </string>
+      <string name = "mm5"> Move </string>
+      <string name = "mm6"> Delete </string>
+
+      <string name = "men1"> Calculator </string>
+      <string name = "men2"> Insert date </string>
+      <string name = "men3"> Insert time </string>
+      <string name = "men4"> Send </string>
+      <string name = "men5"> Prev  viewing </string>
+      <string name = "men6"> Only with an indent (column 1) </string>
+      <string name = "mmm1"> Voice dialing </string>
+      <string name = "mmm2"> Insert a template (word / phrase) </string>
+      <string name = "mmm3"> Insert date </string>
+      <string name = "mmm4"> Insert time </string>
+      <string name = "mmm5"> Background color </string>
+      <string name = "mmm6"> Text color </string>
+      <string name = "nn1"> Next </string>
+      <string name = "nn2"> Back </string>
+      <string name = "nn3"> Direct only </string>
+      <string name = "nn4"> Palette </string>
+      <string name = "nn5"> Other background </string>
+      <string name = "nn6"> Eraser </string>
+      <string name = "nn7"> Clear background </string>
+      <string name = "nn8"> Full Screen </string>
+      <string name = "nn9"> Send </string>
+      <string name = "pp1"> Rename </string>
+      <string name = "pr1"> Selecting a theme </string>
+      <string name = "pr2"> Folder List </string>
+      <string name = "pr3"> Text in the record </string>
+      <string name = "pr4"> Folder List </string>
+      <string name = "pr5"> Text in the record </string>
+      <string name = "pr6"> Text in the table </string>
+      <string name = "pr7"> Include links in the text </string>
+     
+      <string name = "pr9"> Select the application theme </string>
+      <string name = "pr10"> Font </string>
+      <string name = "pr11"> Select the font of the folder list </string>
+      <string name = "pr12"> Select the text font in the entry </string>
+      <string name = "pr13"> Font size </string>
+      <string name = "pr14"> Select the font size </string>
+      <string name = "pr15"> Select the font size </string>
+      <string name = "pr16"> Text in Notes </string>
+    <string name="title_activity_preference">Settings</string>
+
+    <string-array name="fontsize">
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+    </string-array>
+
+    <string-array name="fontLS">
+        <item>Times New Roman</item>
+        <item>Nautiluspompilius</item>
+        <item>Comic Sans MS</item>
+        <item>Arkhip</item>
+        <item>Kremlin</item>
+    </string-array>
+
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name = "d1"> The recorder is on </string>
+      <string name = "nnn"> Figure </string>
+      <string name = "record_added"> The entry was added </string>
+    <string name="th1">Тheme</string>
+
+
+    <string name="pcol">+column</string>
+    <string name="mcol">-column</string>
+    <string name="prow">+row</string>
+    <string name="mrow">-row</string>
+
+    <string name="ls7"> Cloud (Google Drive) </string>
+    <string name="ls8"> No Internet connection</string>
+
+    <string name="action_scan">UPLOAD file</string>
+    <string name="action_list">DOWNLOAD all files</string>
+    <string name="action_delete">DELETE all files</string>
+    <string name="action_account">Select Google Account…</string>
+    <string name="obl"> Backup (GoogleDrive) </string>
+    <string name="err_auth_sha">CHECK PackageName / SHA1\nin Developers Console!</string>
+    <string name="err_auth_dono">UNSPECIFIED GOOGLE DRIVE\nACCESS FAILURE!</string>
+    <string name="err_auth_accpick">NO ACCOUNT SELECTED!</string>
+    <string name="err_auth_nogo">ACCESS NOT AUTHORIZED!</string>
+    <string name="mmm7"> To display in the widget </string>
+
+    <string name= "pr20"> Show button labels </string>
+    <string name="pos">Pos.</string>
+    <string name="sy">This may take a few minutes...</string>
+    <string name="sycancel"></string>
+
+    <string name="gl1">Press once again to exit</string>
+    <string name= "err" >Sorry, there was an error loading files. Repeat the synchronization.</string>
+    <string name= "povt" > Repeat</string>
+    <string name= "commno" >No comments</string>
+    <string name= "w3">Photo saved to "QuickStart" folder</string>
+    <string name= "ga17" >Calls</string>
+    <string name= "w4" >Record saved to "Calls" folder</string>
+    <string name= "w5" >Phone conversation with </string>
+    <string name="w6">unknown</string>
+
+
+</resources>
